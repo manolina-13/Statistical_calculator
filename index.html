@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Computation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Statistical Computation Menu</h1>
+    <div id="menu">
+        <button onclick="getData()">1. Add Numbers</button>
+        <button onclick="deleteData()">2. Delete Numbers</button>
+        <button onclick="calculateMean()">3. Calculate Mean</button>
+        <button onclick="calculateMedian()">4. Calculate Median</button>
+        <button onclick="calculateMode()">5. Calculate Mode</button>
+        <button onclick="calculateStandardDeviation()">6. Calculate Standard Deviation</button>
+        <button onclick="calculateVariance()">7. Calculate Variance</button>
+        <button onclick="calculateFirstOrderMoment()">8. Calculate 1st Order Moment</button>
+        <button onclick="calculateRegression()">9. Calculate Regression</button>
+    </div>
+    <div id="input-area">
+        <textarea id="data-input" placeholder="Enter numbers separated by commas"></textarea>
+        <textarea id="data-input-2" placeholder="Enter second dataset (for regression)" style="display:none;"></textarea>
+    </div>
+    <div id="result-area">
+        <p id="result"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
