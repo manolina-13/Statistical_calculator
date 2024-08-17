@@ -3,7 +3,7 @@ body {
     text-align: justify;
     margin: 0;
     padding: 20px;
-    background-color: #b100cd;
+    background-color: #BE99FF;
 }
 
 #menu button {
@@ -21,7 +21,7 @@ body {
 
 #result-area {
     margin-top: 20px;
-    background-color: #da8ee7;
+    background-color: #e8bcf0;
     padding: 20px;
     border-radius: 8px;
     display: none;
