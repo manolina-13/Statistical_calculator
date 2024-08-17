@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
+    font-family: Bahnschrift, sans-serif;
+    text-align: justify;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #b100cd;
 }
 
 #menu button {
@@ -21,7 +21,7 @@ body {
 
 #result-area {
     margin-top: 20px;
-    background-color: #e2e2e2;
+    background-color: #da8ee7;
     padding: 20px;
     border-radius: 8px;
     display: none;
