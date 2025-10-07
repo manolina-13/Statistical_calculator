@@ -23,7 +23,7 @@ A lightweight, client-side web application for performing common statistical cal
 
 To run this project, you don't need a web server. Simply download the files and open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge).
 
-
+![alt text](https://github.com/manolina-13/Statistical_calculator/raw/main/example2.png)
 
 ## How to Use
 
@@ -70,3 +70,10 @@ This project serves as a great foundation. Future enhancements could include:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+
+## Contact
+
+- **Project Maintainer:** Manolina Das
+- **Email:** manolinadas2004@gmail.com
+- **GitHub:** [https://github.com/manolina-13](https://github.com/manolina-13)
