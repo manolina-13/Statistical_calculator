@@ -1,6 +1,4 @@
-Of course. Here is the professional README.md file for your project, with the Table of Contents omitted.
 
----
 
 # Statistical Computation Web App
 
